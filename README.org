@@ -1,0 +1,2 @@
+* SC-OBC-A1 FPGA bitstream data for SC-Sat1
+This repository is bitstream data for SC-OBC-A1 FPGA of SC-Sat1. SC-Sat1 uses SC-OBC-A1 board for main OBC and ADCS. This repository manages both bitstream data.
